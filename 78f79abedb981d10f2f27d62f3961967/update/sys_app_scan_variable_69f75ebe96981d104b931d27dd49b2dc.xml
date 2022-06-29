@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_app_scan_variable">
+    <sys_app_scan_variable action="INSERT_OR_UPDATE">
+        <name>scope_name</name>
+        <original_value>x_appe_example_t_0</original_value>
+        <referenced_table>sys_app</referenced_table>
+        <run_script>false</run_script>
+        <scan_instance>e5f75ebe6a981d10e669355fd5d7e0d6</scan_instance>
+        <scan_source>scan</scan_source>
+        <source_id>dcf71ebedb981d10f2f27d62f39619c5</source_id>
+        <sys_class_name>sys_app_scan_variable</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-06-29 02:17:09</sys_created_on>
+        <sys_id>69f75ebe96981d104b931d27dd49b2dc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>scope_name</sys_name>
+        <sys_package display_value="Example Template" source="x_appe_example_t_1">78f79abedb981d10f2f27d62f3961967</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Example Template">78f79abedb981d10f2f27d62f3961967</sys_scope>
+        <sys_update_name>sys_app_scan_variable_69f75ebe96981d104b931d27dd49b2dc</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-06-29 02:17:09</sys_updated_on>
+        <template_execution_script/>
+        <type display_value="Scope Name">1b715e665bee101001fb0c370581c7c8</type>
+        <variable_hash>a7b8d96f5a4cc3d4b6a0cf7f0e5d0a130ea9c7e2463fad51595fbed4525414d4</variable_hash>
+    </sys_app_scan_variable>
+</record_update>

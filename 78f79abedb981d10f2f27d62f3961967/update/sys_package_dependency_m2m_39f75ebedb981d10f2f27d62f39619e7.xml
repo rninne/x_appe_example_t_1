@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_package_dependency_m2m">
+    <sys_package_dependency_m2m action="INSERT_OR_UPDATE">
+        <dependency display_value="Guided Setup - Legacy" source="sn_guided_setup">5f4ef4ed9f401200b18a7feea57fcfbe</dependency>
+        <min_version/>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-06-29 02:17:10</sys_created_on>
+        <sys_id>39f75ebedb981d10f2f27d62f39619e7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_package display_value="Example Template" source="x_appe_example_t_1">78f79abedb981d10f2f27d62f3961967</sys_package>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-06-29 02:17:10</sys_updated_on>
+    </sys_package_dependency_m2m>
+</record_update>

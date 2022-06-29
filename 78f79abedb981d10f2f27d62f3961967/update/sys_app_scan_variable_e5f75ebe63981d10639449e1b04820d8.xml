@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_app_scan_variable">
+    <sys_app_scan_variable action="INSERT_OR_UPDATE">
+        <name>short_description</name>
+        <original_value>Template for showcasing templates</original_value>
+        <referenced_table>sys_app</referenced_table>
+        <run_script>false</run_script>
+        <scan_instance>e5f75ebe6a981d10e669355fd5d7e0d6</scan_instance>
+        <scan_source>scan</scan_source>
+        <source_id>dcf71ebedb981d10f2f27d62f39619c5</source_id>
+        <sys_class_name>sys_app_scan_variable</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-06-29 02:17:09</sys_created_on>
+        <sys_id>e5f75ebe63981d10639449e1b04820d8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>short_description</sys_name>
+        <sys_package display_value="Example Template" source="x_appe_example_t_1">78f79abedb981d10f2f27d62f3961967</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Example Template">78f79abedb981d10f2f27d62f3961967</sys_scope>
+        <sys_update_name>sys_app_scan_variable_e5f75ebe63981d10639449e1b04820d8</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-06-29 02:17:09</sys_updated_on>
+        <template_execution_script/>
+        <type display_value="User">e72dcae25b6e101001fb0c370581c7b9</type>
+        <variable_hash>221162d80bdc58624a367c53e1f1dd0074e55822233c659f32411d813682d826</variable_hash>
+    </sys_app_scan_variable>
+</record_update>
